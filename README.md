@@ -45,7 +45,8 @@ Blues • Classical • Country • Disco • HipHop • Jazz • Metal • Pop 
 ---
 
 ## 📌 Author
-      **Deepti Sahu**
-      Machine Learning | Deep Learning | Python
+
+**Deepti Sahu**
+Machine Learning | Deep Learning | Python
 ---
 
